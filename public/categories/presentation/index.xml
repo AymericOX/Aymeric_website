@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>presentation on Aymeric Oliveira-Xavier</title>
+    <link>https://examplesite.com/categories/presentation/</link>
+    <description>Recent content in presentation on Aymeric Oliveira-Xavier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com) | Icons from Flaticon.com [freepik, bearicons, smashicons, design circle]</copyright>
+    <lastBuildDate>Mon, 15 Aug 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESA/ CSEE</title>
+      <link>https://examplesite.com/portfolio/project-1/</link>
+      <pubDate>Mon, 15 Aug 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-1/</guid>
+      <description>Considering the land blending strategy to move beyond the land sparing-sharing debate: the contribution of theoretical To preserve both biodiversity and agricultural production, two land management strategies have been proposed: land sparing (setting apart natural ecosystems while intensifying agriculture) and land sharing (based on agroecosystems that can support both food production and biodiversity conservation).</description>
+    </item>
+    
+    <item>
+      <title>WCA 2022</title>
+      <link>https://examplesite.com/portfolio/project-3/</link>
+      <pubDate>Mon, 18 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-3/</guid>
+      <description>The land blending strategy to move forward the land sparing-sharing debate: a theoretical modeling approach To preserve both biodiversity and agricultural production, two land management strategies have been proposed: land sparing (setting apart natural ecosystems while intensifying agriculture) and land sharing (based on agroecosystems that can support both food production and biodiversity conservation).</description>
+    </item>
+    
+  </channel>
+</rss>

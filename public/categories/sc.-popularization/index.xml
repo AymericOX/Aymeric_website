@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sc. popularization on Aymeric Oliveira-Xavier</title>
+    <link>https://examplesite.com/categories/sc.-popularization/</link>
+    <description>Recent content in sc. popularization on Aymeric Oliveira-Xavier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com) | Icons from Flaticon.com [freepik, bearicons, smashicons, design circle]</copyright>
+    <lastBuildDate>Wed, 13 Apr 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/sc.-popularization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://examplesite.com/portfolio/project-5/</link>
+      <pubDate>Wed, 13 Apr 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-5/</guid>
+      <description>Aves de los cacaotales de la zona Zoque A book for cocoa farmers that groups together the birds present in the cocoa plantations of the Zoque region, their characteristics and their ecological roles.</description>
+    </item>
+    
+  </channel>
+</rss>

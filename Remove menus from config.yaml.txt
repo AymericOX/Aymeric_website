@@ -1,0 +1,13 @@
+Testimonial menu:
+Add in line 79 : 
+        - name: Testimonial
+          pre: '#'
+          url: testimonial
+          weight: 5
+
+Blog menu : 
+Add in line 84 : 
+        - name: Blog
+          url: blog
+          weight: 7
+          weight: 1

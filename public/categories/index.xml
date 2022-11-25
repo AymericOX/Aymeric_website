@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Aymeric Oliveira-Xavier</title>
+    <link>https://examplesite.com/categories/</link>
+    <description>Recent content in Categories on Aymeric Oliveira-Xavier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com) | Icons from Flaticon.com [freepik, bearicons, smashicons, design circle]</copyright>
+    <lastBuildDate>Mon, 15 Aug 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>congress</title>
+      <link>https://examplesite.com/categories/congress/</link>
+      <pubDate>Mon, 15 Aug 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/congress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>https://examplesite.com/categories/presentation/</link>
+      <pubDate>Mon, 15 Aug 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://examplesite.com/categories/book/</link>
+      <pubDate>Wed, 13 Apr 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sc. popularization</title>
+      <link>https://examplesite.com/categories/sc.-popularization/</link>
+      <pubDate>Wed, 13 Apr 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/sc.-popularization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media</title>
+      <link>https://examplesite.com/categories/media/</link>
+      <pubDate>Thu, 19 Sep 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>papers</title>
+      <link>https://examplesite.com/categories/papers/</link>
+      <pubDate>Mon, 02 Sep 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/papers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCIENCE DISSEMINATION on Aymeric Oliveira-Xavier</title>
+    <link>https://examplesite.com/portfolio/</link>
+    <description>Recent content in SCIENCE DISSEMINATION on Aymeric Oliveira-Xavier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com) | Icons from Flaticon.com [freepik, bearicons, smashicons, design circle]</copyright>
+    <lastBuildDate>Mon, 15 Aug 2022 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ESA/ CSEE</title>
+      <link>https://examplesite.com/portfolio/project-1/</link>
+      <pubDate>Mon, 15 Aug 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-1/</guid>
+      <description>Considering the land blending strategy to move beyond the land sparing-sharing debate: the contribution of theoretical To preserve both biodiversity and agricultural production, two land management strategies have been proposed: land sparing (setting apart natural ecosystems while intensifying agriculture) and land sharing (based on agroecosystems that can support both food production and biodiversity conservation).</description>
+    </item>
+    
+    <item>
+      <title>WCA 2022</title>
+      <link>https://examplesite.com/portfolio/project-3/</link>
+      <pubDate>Mon, 18 Jul 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-3/</guid>
+      <description>The land blending strategy to move forward the land sparing-sharing debate: a theoretical modeling approach To preserve both biodiversity and agricultural production, two land management strategies have been proposed: land sparing (setting apart natural ecosystems while intensifying agriculture) and land sharing (based on agroecosystems that can support both food production and biodiversity conservation).</description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>https://examplesite.com/portfolio/project-5/</link>
+      <pubDate>Wed, 13 Apr 2022 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-5/</guid>
+      <description>Aves de los cacaotales de la zona Zoque A book for cocoa farmers that groups together the birds present in the cocoa plantations of the Zoque region, their characteristics and their ecological roles.</description>
+    </item>
+    
+    <item>
+      <title>Le Monde</title>
+      <link>https://examplesite.com/portfolio/project-4/</link>
+      <pubDate>Thu, 19 Sep 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature paper</title>
+      <link>https://examplesite.com/portfolio/project-6/</link>
+      <pubDate>Mon, 02 Sep 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-6/</guid>
+      <description>Differential fitness effects of moonlight on plumage colour morphs in barn owls </description>
+    </item>
+    
+    <item>
+      <title>The New York Times</title>
+      <link>https://examplesite.com/portfolio/project-2/</link>
+      <pubDate>Mon, 02 Sep 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
