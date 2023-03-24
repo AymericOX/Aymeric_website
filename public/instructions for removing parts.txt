@@ -1,2 +1,0 @@
-Add "NO_" to delete parts
-Remove "NO_" to add parts

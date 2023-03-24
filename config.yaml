@@ -1,5 +1,5 @@
 baseURL: https://examplesite.com
-title: Aymeric Oliveira-Xavier
+title: Aymeric's website
 theme: somrat
 paginate: '6'
 summaryLength: '10'
@@ -42,16 +42,14 @@ params:
     enable: yes
     preloader: images/preloader.gif
   social:
-    - icon: fab fa-facebook-f
-      link: https://www.facebook.com/somratpro
     - icon: fab fa-twitter
-      link: https://twitter.com/somratpro
-    - icon: fab fa-instagram
-      link: https://www.instagram.com/somratpro
-    - icon: fab fa-github
-      link: https://github.com/somratpro
-    - icon: fab fa-linkedin
-      link: https://www.linkedin.com/in/somratpro
+      link: https://twitter.com/AymericOX
+#   - icon: fab fa-instagram
+#      link: https://www.instagram.com/somratpro
+#    - icon: fab fa-github
+#      link: https://github.com/AymericOX
+#    - icon: fab fa-linkedin
+#      link: https://www.linkedin.com/in/somratpro
 Languages:
   en:
     contentDir: content/english
